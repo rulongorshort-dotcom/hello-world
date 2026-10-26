@@ -1,1 +1,2 @@
-print("Hello from my Chromebook!")
+name = input("What's your name? ")
+print("Hello,", name)
